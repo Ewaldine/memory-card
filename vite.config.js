@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
 
   // Required for GitHub Pages
-  base: '/Memory-Card/',
+  base: '/memory-card/',
 })
 
 
